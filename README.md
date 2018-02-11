@@ -3,6 +3,7 @@
 This repository is simply a place for me to post a work history of my studies in Java. 
 
 Here are some of the basic Java Topics covered within:
+
 Selections,
 Mathmatical Functions,
 Characters & Strings,
